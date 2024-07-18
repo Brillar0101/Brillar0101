@@ -1,10 +1,10 @@
 # Barakaeli Lawuo
 
 ## 🌟 About Me
-I am currently a computer engineering student at Virginia Tech, blending Internet of Things (IoT) and software development cycles to create secure systems. My ambition is to innovate in the field of cybersecurity and IoT, contributing to the development of robust and secure technological solutions.
+I am currently a computer engineering student at Virginia Tech, blending Internet of Things (IoT) and software development cycles to create secure systems. 
 
 ## 🎯 Objective
-My goal is to deepen my expertise in cybersecurity and IoT, working towards a position where I can apply my knowledge to protect and optimize information systems in a professional setting.
+My goal is to deepen my expertise in cybersecurity and IoT, working towards a position where I can apply my knowledge to protect and optimize software systems in a professional setting.
 
 ## 🛠 Skills & Projects
 ### Software Development
@@ -22,8 +22,9 @@ My goal is to deepen my expertise in cybersecurity and IoT, working towards a po
 - **Smart Surveillance System:** Applies image recognition and machine learning to monitor CCTV footage for unusual activities, providing automated alerts and insights.
 
 ### IoT
-- **The AmpVolt Modular DC Power Meter:** Discuss the application and technology stack.
-- **A Simple DDS Signal Generator:** Explain how this project functions and its applications.
+- **The AmpVolt Modular DC Power Meter:** A project focused on real-time monitoring and management of DC power usage, ideal for renewable energy systems and battery management. It utilizes ESP32 with sensors for accurate data tracking and provides a user-friendly dashboard for visualization.
+- **A Simple DDS Signal Generator:** This project employs Direct Digital Synthesis technology to create precise frequency signals. It's built with an Arduino and a DDS chip, offering adjustable waveforms for various applications in testing and communications.
+.
 
 ## 🧰 Tools
 ### Development Tools
