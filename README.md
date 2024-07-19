@@ -9,7 +9,7 @@ My goal is to deepen my expertise in cybersecurity and IoT, working towards a po
 ## 🛠 Skills & Projects
 ### Software Development
 - **Entersafe App:** A security-focused application designed to protect user data through end-to-end encryption and real-time threat detection.
-- **Secure Code Analyzer:** A tool that scans codebases for security vulnerabilities, supports multiple programming languages, and integrates seamlessly with CI/CD pipelines.
+- **Secure Code Analyzer [Demo]:** A tool that scans codebases for security vulnerabilities, supports multiple programming languages, and integrates seamlessly with CI/CD pipelines.
 
 ### Network Security
 - **Cloud Threat Monitor App:** An application that uses machine learning to analyze network traffic and detect anomalies indicative of cyber threats in cloud environments.
