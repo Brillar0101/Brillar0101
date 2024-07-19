@@ -53,4 +53,4 @@ My goal is to deepen my expertise in cybersecurity and IoT, working towards a po
 ## 📫 How to Reach Me
 - **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **GitHub:** [[Your GitHub](https://github.com/yourusername)](https://github.com/Brillar0101 )
+- **GitHub:** [(https://github.com/yourusername)](https://github.com/Brillar0101 )
