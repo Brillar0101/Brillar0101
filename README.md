@@ -51,6 +51,6 @@ My goal is to deepen my expertise in cybersecurity and IoT, working towards a po
 - **OpenCV**
 
 ## 📫 How to Reach Me
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **GitHub:** (https://github.com/Brillar0101 )
+- **Email:** barakaeli@vt.edu
+- **LinkedIn:** www.linkedin.com/in/barakaeli
+- **GitHub:** https://github.com/Brillar0101
