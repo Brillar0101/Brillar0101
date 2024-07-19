@@ -27,12 +27,11 @@ My goal is to deepen my expertise in cybersecurity and IoT, working towards a po
 .
 
 ## 🧰 Tools
-### Development Tools
+### Software Development Tools
 - **Flutter**
 - **Firebase**
 - **Flask**
 - **Python**
-- **Raspberry Pi 5**
 
 ### Network Tools
 - **ReactJS**
