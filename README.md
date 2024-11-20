@@ -8,7 +8,7 @@ My goal is to deepen current skills to a position where I can apply my knowledge
 
 ## 🛠 Skills & Projects
 ### Software Development
-- **Entersafe App:** A security-focused application designed to protect user data through end-to-end encryption and real-time threat detection.
+- [**Entersafe App:**](https://github.com/Brillar0101/Entersafev1) A security-focused application designed to protect user data through end-to-end encryption and real-time threat detection.
 
 
 ### Machine Learning
