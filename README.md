@@ -17,8 +17,8 @@ My goal is to deepen my expertise in cybersecurity and IoT, working towards a po
 - **Firewall Configuration Wizard:** Assists in setting up and maintaining firewall rules tailored to organizational needs, enhances security with minimal complexity.
 
 ### Machine Learning
-- **Video Summarization and Highlight Detection System:** Utilizes machine learning algorithms to automatically generate summaries and detect key highlights in video content, improving content accessibility.
 - **Phishing Detection AI:** A system that uses natural language processing and machine learning to identify phishing attempts in emails and web content.
+- **Video Summarization and Highlight Detection System:** Utilizes machine learning algorithms to automatically generate summaries and detect key highlights in video content, improving content accessibility.
 - **Smart Surveillance System:** Applies image recognition and machine learning to monitor CCTV footage for unusual activities, providing automated alerts and insights.
 
 ### IoT
