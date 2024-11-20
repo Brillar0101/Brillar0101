@@ -12,7 +12,7 @@ My goal is to deepen current skills to a position where I can apply my knowledge
 
 
 ### Machine Learning
-- **SMS Scam Detection:** A system that uses natural language processing and machine learning to identify scam messages.
+- [**SMS Scam Detection:**](https://github.com/Brillar0101/SMS-Spam-Detector) A system that uses natural language processing and machine learning to identify scam messages.
 
 ### IoT
 - **The AmpVolt Modular DC Power Meter:** A project focused on real-time monitoring and management of DC power usage, ideal for renewable energy systems and battery management. It utilizes ESP32 with sensors for accurate data tracking and provides a user-friendly dashboard for visualization.
