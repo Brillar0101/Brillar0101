@@ -1,7 +1,7 @@
 # Barakaeli Lawuo
 
 ## 🌟 About Me
-I am currently a Computer eEgineering student at Virginia Tech, blending Internet of Things (IoT), Machine Learning & Software Development cycles to create secure software and hardware systems. 
+I am currently a Computer Egineering student at Virginia Tech, blending Internet of Things (IoT), Machine Learning & Software Development cycles to create secure software and hardware systems. 
 
 ## 🎯 Objective
 My goal is to deepen current skills to a position where I can apply my knowledge to protect and optimize software systems. not only in a personal level but also corporate.
