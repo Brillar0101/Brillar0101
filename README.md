@@ -32,7 +32,7 @@ Generative Adversarial Network for fashion image generation. This project explor
 
 ### 🎮 Embedded Systems
 
-#### Pixel Monarch
+#### [Pixel Monarch](https://github.com/Brillar0101/Pixel-Monarch-Game)
 A kingdom management game developed for the **MSP432 microcontroller** platform. Players manage resources, make strategic decisions, and interact with the game through embedded hardware interfaces.
 
 **Key Features:**
