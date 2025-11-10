@@ -1,4 +1,4 @@
-# Hi there, I'm Baraka 👋
+# Hi there, I am Baraka 👋
 
 ## About Me
 
@@ -9,7 +9,7 @@ I am a Junior Computer Engineering student at Virginia Tech with a concentration
 - Embedded Systems (ECE 2564)
 - Computer Networks (ECE 3564)
 - Data Structures & Algorithms (ECE 3514)
-- Intergated Design Project
+- Intergated Design Project (ECE 2804)
 
 ### 💻 Tech Stack
 **Languages:** C++, Python, C, MATLAB  
