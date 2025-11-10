@@ -1,48 +1,63 @@
-# Barakaeli Lawuo
+# Hi there, I'm Baraka 👋
 
-## 🌟 About Me
-I am currently a Computer Egineering student at Virginia Tech, blending Internet of Things (IoT), Machine Learning & Software Development cycles to create secure software and hardware systems. 
+## About Me
 
-## 🎯 Objective
-My goal is to deepen current skills to a position where I can apply my knowledge to protect and optimize software systems. not only in a personal level but also corporate.
+I'm an undergraduate Computer Engineering student at Virginia Tech specializing in **Cybersecurity & Networks**. I'm passionate about combining hardware and software to create innovative solutions, with particular interests in **machine learning**, **embedded systems**, and **sports analytics**.
 
-## 🛠 Skills & Projects
-### Software Development
-- [**Entersafe App:**](https://github.com/Brillar0101/Entersafev1) A security-focused application designed to protect user data through end-to-end encryption and real-time threat detection.
+### 🎓 Currently Learning
+- Physical Electronics (ECE 2214)
+- Embedded Systems (ECE 2564)
+- Computer Networks (ECE 3564)
+- Data Structures & Algorithms (ECE 3514)
 
+### 💻 Tech Stack
+**Languages:** C++, Python, C, MATLAB  
+**ML/AI:** PyTorch, OpenCV, Computer Vision, RF-DETR, SAM2  
+**Embedded:** MSP432 Microcontrollers, UART, GPIO, Timers  
+**Tools:** KiCad, LTspice, WaveForms, Wireshark, Git
 
-### Machine Learning
-- [**SMS Scam Detection:**](https://github.com/Brillar0101/SMS-Spam-Detector) A system that uses natural language processing and machine learning to identify scam messages.
+---
 
-### IoT
-- **The AmpVolt Modular DC Power Meter:** A project focused on real-time monitoring and management of DC power usage, ideal for renewable energy systems and battery management. It utilizes ESP32 with sensors for accurate data tracking and provides a user-friendly dashboard for visualization.
-- **A Simple DDS Signal Generator:** This project employs Direct Digital Synthesis technology to create precise frequency signals. It's built with an Arduino and a DDS chip, offering adjustable waveforms for various applications in testing and communications.
-.
+## 🚀 Featured Projects
 
-## 🧰 Tools
-### Software Development Tools
-- **Flutter**
-- **Firebase**
-- **Flask**
-- **Python**
+### 🤖 Machine Learning
 
-### Network Tools
-- **ReactJS**
-- **Node.js**
-- **Express**
-- **AWS Services (Lambda, DynamoDB, S3, SNS, MongoDB)**
+#### [Fashion GAN](https://github.com/Brillar0101/Fashion_GAN)
+Generative Adversarial Network for fashion image generation. This project explores deep learning architectures to create synthetic fashion images, demonstrating proficiency in neural network design and training.
 
-### Machine Learning Tools
-- **TensorFlow**
-- **PyTorch**
-- **FastAPI**
-- **Apache Spark**
-- **TensorFlow Extended (TFX)**
-- **NVIDIA TensorRT**
-- **Kubernetes**
-- **OpenCV**
+**Technologies:** Python, PyTorch, GANs, Deep Learning
 
-## 📫 How to Reach Me
-- **Email:** barakaeli@vt.edu
-- **LinkedIn:** www.linkedin.com/in/barakaeli
-- **GitHub:** https://github.com/Brillar0101
+---
+
+### 🎮 Embedded Systems
+
+#### Pixel Monarch
+A kingdom management game developed for the **MSP432 microcontroller** platform. Players manage resources, make strategic decisions, and interact with the game through embedded hardware interfaces.
+
+**Key Features:**
+- Real-time game state management using finite state machines
+- LCD graphics rendering for visual feedback
+- UART communication for debugging and data transfer
+- Efficient memory management on resource-constrained hardware
+- Custom interrupt-driven input handling
+
+**Technologies:** C, MSP432, UART, LCD Graphics, Embedded C, FSM Design
+
+---
+
+## 🔬 Other Interests
+
+- **Sports Analytics:** Developing ML applications for basketball analytics and computer vision
+- **Circuit Design:** Working with MOSFETs, amplifiers, and signal processing circuits
+- **Networking:** Protocol analysis, TCP/IP, packet inspection with Wireshark
+- **Electronics Projects:** Touch capacitive sensing, Class-D amplifiers, ADC implementations
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on projects involving machine learning, embedded systems, or sports analytics. Feel free to reach out!
+
+---
+
+*"Building the future one line of code and one circuit at a time."*
