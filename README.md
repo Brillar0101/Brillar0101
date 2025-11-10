@@ -2,13 +2,14 @@
 
 ## About Me
 
-I'm an undergraduate Computer Engineering student at Virginia Tech specializing in **Cybersecurity & Networks**. I'm passionate about combining hardware and software to create innovative solutions, with particular interests in **machine learning**, **embedded systems**, and **sports analytics**.
+I am a Junior Computer Engineering student at Virginia Tech with a concentration in **Cybersecurity & Networks**. I am passionate about combining hardware and software to create innovative solutions, with particular interests in **machine learning**, **embedded systems**, and **sports analytics**.
 
 ### 🎓 Currently Learning
 - Physical Electronics (ECE 2214)
 - Embedded Systems (ECE 2564)
 - Computer Networks (ECE 3564)
 - Data Structures & Algorithms (ECE 3514)
+- Intergated Design Project
 
 ### 💻 Tech Stack
 **Languages:** C++, Python, C, MATLAB  
