@@ -44,7 +44,7 @@ A kingdom management game developed for the **MSP432 microcontroller** platform.
 
 **Technologies:** C, MSP432, UART, LCD Graphics, Embedded C, FSM Design
 
-#### Touhou (Bullet Hell Game)
+#### Touhou [Bullet Hell Game](https://github.com/Brillar0101/Touhou-Game)
 A bullet-hell dodging game inspired by the Japanese Touhou series, developed for the **MSP432 microcontroller** platform. Players dodge enemy bullet patterns while attacking back to reduce the enemy's health to zero before their own runs out.
 
 **Key Features:**
