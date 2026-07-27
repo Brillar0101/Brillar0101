@@ -2,7 +2,7 @@
 
 # Baraka Lawuo
 
-**Computer Engineering · Virginia Tech '27 · Cybersecurity & Networks**
+**Computer Engineering, concentration in Cybersecurity and Networks · Virginia Tech '27**
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-19376D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ml-ai-fullstack-portolio-baraka.vercel.app)
@@ -16,7 +16,7 @@
 
 ### About
 
-I build things that span the whole stack, from writing C on a bare-metal microcontroller to training a YOLO model to shipping the web app that serves it. I am a junior at Virginia Tech studying Computer Engineering with a concentration in Cybersecurity and Networks.
+I build things that span the whole stack, from writing C on a bare-metal microcontroller to training a YOLO model to shipping the web app that serves it. I study Computer Engineering at Virginia Tech, with a concentration in Cybersecurity and Networks.
 
 The through-line in most of my work is putting machine learning somewhere it does not usually fit: a business card that runs a neural network, a basketball analytics pipeline that reasons about game footage, a hardened container image built to survive a security audit.
 
