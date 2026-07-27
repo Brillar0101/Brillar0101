@@ -88,7 +88,6 @@ The through-line in most of my work is putting machine learning somewhere it doe
 | **[ClaudeMicro](https://github.com/Brillar0101/claude-micro)** | RP2040 macropad for supervising AI coding agents, with per-key RGB agent status | KiCad, RP2040, CircuitPython |
 | **[Clapperboard Detector](https://github.com/Brillar0101/Clapperboard_Detector)** | YOLOv8n model detecting clapperboards in production footage at 96.4% mAP@0.5 and 48 FPS | PyTorch, YOLOv8, OpenCV |
 | **[Project Hummingbird](https://github.com/Brillar0101/filedrop-hummingbird-hardened)** | Paired hardened and unhardened file-drop services, built to make attack surface measurable | Python, Docker, container hardening |
-| **[Princetekki Keyboards](https://github.com/Brillar0101/princetekki-keyboards)** | Personal line of custom macropads and keyboards, schematic through fabrication | KiCad, C, firmware |
 | **[Qt Document Analyzer](https://github.com/Brillar0101/qt-document-analyzer)** | Desktop app for linguistic text analysis, with a worker thread and a Qt-free testable core | C++, Qt, Catch2 |
 | **[PSIV Rentals](https://github.com/Brillar0101/psiv-rentals)** | Full-stack equipment rental platform with mobile app, API, and admin dashboard | React Native, Node.js, PostgreSQL |
 | **[Touhou Bullet Hell](https://github.com/Brillar0101/Touhou-Game)** | Bare-metal shooter, 6 enemy firing patterns and custom sprites on a 128x128 LCD, no RTOS | C, MSP432 |
