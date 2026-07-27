@@ -17,9 +17,10 @@ I build things that span the whole stack, from writing C on a bare-metal microco
 
 The through-line in most of my work is putting machine learning somewhere it does not usually fit: a business card that runs a neural network, a basketball analytics pipeline that reasons about game footage, a hardened container image built to survive a security audit.
 
-- Working on: computer vision pipelines, custom PCB design, and RHEL security automation
+- Graduating: May 2027, Virginia Tech
+- Working on: computer vision pipelines, custom PCB design, and Linux security automation
 - Learning: hardware-accelerated inference and network security fundamentals
-- Open to: internships in ML engineering, embedded systems, or security
+- **Open to full-time roles** in AI infrastructure engineering, ML engineering, embedded systems, or security
 
 ---
 
@@ -94,12 +95,13 @@ The through-line in most of my work is putting machine learning somewhere it doe
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Brillar0101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brillar0101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=19376D&icon_color=19376D" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brillar0101&theme=tokyonight" />
+  <img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brillar0101&theme=default" alt="Profile details" />
 </picture>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Brillar0101&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Brillar0101&hide_border=true&ring=19376D&fire=19376D&currStreakLabel=19376D" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Brillar0101&hide_border=true&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Brillar0101&hide_border=true&ring=19376D&fire=19376D&currStreakLabel=19376D" alt="GitHub streak" />
 </picture>
 
 <picture>
