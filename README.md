@@ -1,6 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2447,50:19376D,100:576CBC&height=200&section=header&text=Baraka%20Lawuo&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20%C2%B7%20Virginia%20Tech%20%2727%20%C2%B7%20Cybersecurity%20%26%20Networks&descSize=16&descAlignY=56" alt="Baraka Lawuo" />
-
 <div align="center">
+
+# Baraka Lawuo
+
+**Computer Engineering · Virginia Tech '27 · Cybersecurity & Networks**
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-19376D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ml-ai-fullstack-portolio-baraka.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-barakaeli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barakaeli)
@@ -89,7 +92,6 @@ The through-line in most of my work is putting machine learning somewhere it doe
 | **[Qt Document Analyzer](https://github.com/Brillar0101/qt-document-analyzer)** | Desktop app for linguistic text analysis, with a worker thread and a Qt-free testable core | C++, Qt, Catch2 |
 | **[PSIV Rentals](https://github.com/Brillar0101/psiv-rentals)** | Full-stack equipment rental platform with mobile app, API, and admin dashboard | React Native, Node.js, PostgreSQL |
 | **[Touhou Bullet Hell](https://github.com/Brillar0101/Touhou-Game)** | Bare-metal shooter, 6 enemy firing patterns and custom sprites on a 128x128 LCD, no RTOS | C, MSP432 |
-| **[claude-code-on-fugu](https://github.com/Brillar0101/claude-code-on-fugu)** | Local OpenAI to Anthropic translating router so Claude Code runs on Sakana Fugu | TypeScript, LLM tooling |
 
 ---
 
@@ -98,27 +100,8 @@ The through-line in most of my work is putting machine learning somewhere it doe
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brillar0101&theme=tokyonight" />
-  <img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brillar0101&theme=default" alt="Profile details" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Brillar0101&hide_border=true&theme=tokyonight" />
   <img height="180" src="https://streak-stats.demolab.com/?user=Brillar0101&hide_border=true&ring=19376D&fire=19376D&currStreakLabel=19376D" alt="GitHub streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brillar0101&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brillar0101&theme=default" alt="Repos per language" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brillar0101&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brillar0101&theme=default" alt="Most committed language" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brillar0101&theme=tokyonight&utcOffset=-5" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brillar0101&theme=default&utcOffset=-5" alt="Productive time" />
 </picture>
 
 </div>
@@ -129,4 +112,3 @@ The through-line in most of my work is putting machine learning somewhere it doe
 
 Computer Architecture · Digital Design · Applied Software Design · Computer and Network Security Fundamentals · Network Application Design · Data Structures and Algorithms · Startup Commercialization
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:576CBC,50:19376D,100:0B2447&height=120&section=footer" alt="" />
